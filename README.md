@@ -1,13 +1,18 @@
-# Machine Learning Tutorial
-Machine Learning Algorithms and Networks
-### [En](#machine-learning)/[Tr](#makine-öğrenmesi)
-### Machine Learning
-- It aims to make computers learn from data. 
-- It uses statistics and computer science without programming for a specific task. 
-- It is used in various tasks such as prediction classification using meaningful patterns in data.
+# DL & ML Tutorial
+### [En](#about-repository)/[Tr](#depo-hakkında)
 
-### Makine Öğrenmesi
 
-- Bilgisayarların verilerden öğrenmesini amaçlar. 
-- Belirli bir görev için programlama yapmadan istatistik ve bilgisayar bilimlerini kullanır. 
-- Verilerdeki anlamlı örüntüleri kullanarak tahmin sınıflandırma gibi çeşitli görevlerde kullanılır.
+### About Repository
+This GitHub repository contains various code samples developed using Python in the areas of deep learning, machine learning, and artificial intelligence. These examples cover a wide range of machine learning and deep learning algorithms and applications, from beginner to advanced. It also consists of files introducing commonly used Python libraries. This GitHub repository is a beginner's guide for those new to deep learning. It was created to provide basic information and practical examples for those who want to get started in deep learning, machine learning, and artificial intelligence.
+#### ML Algorithms
+- Lineer Regression
+- Logistic Regression
+- Naive Bayes
+- Perceptron
+### Depo Hakkında
+Bu GitHub deposu, derin öğrenme, makine öğrenmesi ve yapay zeka alanlarında Python kullanarak geliştirilmiş çeşitli kod örneklerini içerir. Bu örnekler, başlangıç düzeyinden ileri seviyeye kadar geniş bir yelpazede çeşitli makine öğrenmesi ve derin öğrenme algoritmalarını ve uygulamalarını kapsar. Ayrıca, sık kullanılan Python kütüphanelerini tanıtan dosyalardan oluşur. Bu GitHub deposu, derin öğrenmeye yeni başlayanlar için bir başlangıç kılavuzu niteliğindedir. Derin öğrenme, makine öğrenmesi ve yapay zeka konularına giriş yapmak isteyenler için temel bilgiler sağlamak ve uygulamalı örnekler sunmak amacıyla oluşturulmuştur. 
+#### ML Algoritmaları
+- Lineer Regresyon
+- Logistic Regresyon
+- Naive Bayes
+- Perceptron
