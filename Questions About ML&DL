@@ -1,0 +1,2 @@
+- Görüntü doğrudan dense layer'a verilerek ml işlemleri yapılabilir miydi?
+Evet yapılırdı. Ama görüntünün her bir pikseli diğer tüm pikseller ile bağlantı yapacağı için işlem maliyeti çok fazla olurdu.
