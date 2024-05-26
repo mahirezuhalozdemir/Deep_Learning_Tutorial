@@ -10,6 +10,7 @@ This GitHub repository contains various code samples developed using Python in t
 - Naive Bayes
 - Perceptron
 - SVM
+- Decision Tree
 ### Depo Hakkında
 Bu GitHub deposu, derin öğrenme, makine öğrenmesi ve yapay zeka alanlarında Python kullanarak geliştirilmiş çeşitli kod örneklerini içerir. Bu örnekler, başlangıç düzeyinden ileri seviyeye kadar geniş bir yelpazede çeşitli makine öğrenmesi ve derin öğrenme algoritmalarını ve uygulamalarını kapsar. Ayrıca, sık kullanılan Python kütüphanelerini tanıtan dosyalardan oluşur. Bu GitHub deposu, derin öğrenmeye yeni başlayanlar için bir başlangıç kılavuzu niteliğindedir. Derin öğrenme, makine öğrenmesi ve yapay zeka konularına giriş yapmak isteyenler için temel bilgiler sağlamak ve uygulamalı örnekler sunmak amacıyla oluşturulmuştur. 
 #### ML Algoritmaları
@@ -18,3 +19,4 @@ Bu GitHub deposu, derin öğrenme, makine öğrenmesi ve yapay zeka alanlarında
 - Naive Bayes
 - Perceptron
 - SVM
+- Karar Ağaçları
